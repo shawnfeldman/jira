@@ -86,6 +86,9 @@ Smart Commits are documented on the [Atlassian site](https://confluence.atlassia
 ### Link issues in github
 If an issue body contains a valid Jira issue key on your instance, the integration will automatically expand it into a reference link when surround in brackets `[]`. For example: `[JRA-123]` will be turned into a link to `https://<your-instance>.atlassian.net/browse/JRA-123` . Markdown references are only visible when editing an Issue/PR comment, and appear at the bottom of the text area:
 
+
+thiss s ss
+
 ![image](https://user-images.githubusercontent.com/13207348/53053377-2c414500-346f-11e9-9f79-8b78681bd60e.png)
 
 This makes it so Jira issues can be linked inside a comment without it interrupting the flow of the comment as a whole.
