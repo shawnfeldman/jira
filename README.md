@@ -32,6 +32,7 @@ This app officially supports GitHub.com and Jira Cloud. Support for GitHub Enter
 
 ### Installation from Atlassian
 1. Sign into your Jira Cloud account
+123
 2. Open the left sidebar by clicking on **Personal Settings**, if the left side bar is not already open. From the left sidebar in Jira, select **Jira Settings** -> **Apps** -> **Find new Apps**. (If you're using an older version of Jira, you won't have a left sidebar. Instead, click the **Gear Icon** in the top-right corner and select **Settings**. From there, select **Manage add-ons** from the left sidebar.)
 3. Search for **GitHub for Jira** and Click **Install**
 ![image](https://user-images.githubusercontent.com/13207348/46588299-08550800-ca68-11e8-8ed4-290533320ef4.png)
